@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23452#The-Trial-of-William-TinklingWritten-by-Himself-at-the-Age-of-8-Years
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2007-11-12'
 gutenberg_type: Text
